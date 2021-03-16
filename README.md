@@ -1,4 +1,4 @@
-# Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks
+# Uncertainty-Aware Self-Supervised Learning <br> of Spatial Perception Tasks
 
 *Mirko Nava, Antonio Paolillo, Jerome Guzzi, Luca Maria Gambardella, and Alessandro Giusti*
 
