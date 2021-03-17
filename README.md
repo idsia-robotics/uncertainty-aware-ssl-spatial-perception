@@ -11,4 +11,5 @@ The model is learned from training episodes, by relying on: a continuous state e
 We demonstrate the general approach in three different concrete scenarios: a simulated robot arm that visually estimates the pose of an object of interest; a small differential drive robot using 7 infrared sensors to localize a nearby wall; an omnidirectional mobile robot that localizes itself in an environment from camera images.
 Quantitative results show that the approach works well in all three scenarios, and that explicitly accounting for uncertainty yields statistically significant performance improvements.
 
-## Videos will soon be avaialable
+### Video
+[![Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception/blob/main/video/video.png)](https://youtu.be/QDf9LDDiqB4)
