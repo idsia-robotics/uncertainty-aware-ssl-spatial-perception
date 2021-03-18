@@ -12,4 +12,4 @@ We demonstrate the general approach in three different concrete scenarios: a sim
 Quantitative results show that the approach works well in all three scenarios, and that explicitly accounting for uncertainty yields statistically significant performance improvements.
 
 ### Video
-[![Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception/blob/main/video/video.gif)](https://youtu.be/QDf9LDDiqB4)
+[![Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception/blob/main/video/video.gif)](https://youtu.be/G3cIDRrkfZY)
