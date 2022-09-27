@@ -25,4 +25,4 @@ The model is learned from training episodes, by relying on: a continuous state e
 ```
 
 ### Video
-[![Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception/blob/main/video/video.gif)](https://youtu.be/G3cIDRrkfZY)
+[![Uncertainty-Aware Self-Supervised Learning of Spatial Perception Tasks](https://github.com/idsia-robotics/uncertainty-aware-ssl-spatial-perception/blob/main/video/video.gif)](https://youtu.be/A9gpNRDH56E)
